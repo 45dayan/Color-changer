@@ -1,0 +1,42 @@
+body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    padding: 30px;
+    font-size: 30px;
+}
+    h1 {
+     color: blue;
+   text-decoration: underline;
+     background-image: url(https://media3.giphy.com/media/la3211WGwbYYw/200.webp?cid=790b7611emhj7tc19he9vhf9arf14fazdzivsa85jhxux0lo&ep=v1_gifs_search&rid=200.webp&ct=g);
+    }
+    
+
+ #box {
+    background-color: red;
+    color: #fff;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 6px;
+    border: none;
+    font-size: 30px;
+}
+#box2 {
+    background-color: green;
+    color: #fff;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 6px;
+    border: none;
+    font-size: 30px;
+}
+#box3 {
+    background-color: blue;
+    color: #fff;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 6px;
+    border: none;
+    font-size: 30px;
+}
